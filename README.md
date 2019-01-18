@@ -1,4 +1,4 @@
-# Trinom-o-ejercicio
+# Trinomio-ejercicio
 Realice una aplicacion web con java 8
 utilizando:
 struts 2
