@@ -1,0 +1,1 @@
+# Trinom-o-ejercisio
